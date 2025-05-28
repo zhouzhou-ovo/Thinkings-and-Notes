@@ -1,0 +1,16 @@
+{
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "New Note",
+  "attachmentFolderPath": "Attachment",
+  "defaultViewMode": "source",
+  "strictLineBreaks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true
+}

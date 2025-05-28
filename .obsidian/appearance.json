@@ -1,0 +1,8 @@
+{
+  "baseFontSize": 25,
+  "theme": "system",
+  "cssTheme": "Things",
+  "accentColor": "#ae00ff",
+  "baseFontSizeAction": true,
+  "translucency": true
+}

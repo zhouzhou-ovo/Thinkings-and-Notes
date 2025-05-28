@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "c57fa831a652203a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4a9b07e97caeea4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d491543668f714fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bayesian Statistics/One-parameter Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "One-parameter Models"
+            }
+          },
+          {
+            "id": "7ba93a164e8013fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Machine Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Machine Learning"
+            }
+          },
+          {
+            "id": "0ae4b183606d44d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Note/申请博士的计划.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "申请博士的计划"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08f5b0446bc321fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2a297014b251ecc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e748c0a481392ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f1ba5d76c323e094",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Machine_Learning  ",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "fd7bdc4830e06608",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.51103591918945,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f38703fb4c293b62",
+    "type": "split",
+    "children": [
+      {
+        "id": "54a12ed9617528a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b17ea682d992c00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bayesian Statistics/One-parameter Models.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "One-parameter Models 的反向链接列表"
+            }
+          },
+          {
+            "id": "d6722d431db89d36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bayesian Statistics/One-parameter Models.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "One-parameter Models 的出链列表"
+            }
+          },
+          {
+            "id": "c2fb099cb0577d21",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "cc7cd4550e3bc2e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bayesian Statistics/One-parameter Models.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "One-parameter Models 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false
+    }
+  },
+  "active": "d491543668f714fd",
+  "lastOpenFiles": [
+    "Bayesian Statistics/The Multivariate Normal Model.md",
+    "Bayesian Statistics/One-parameter Models.md",
+    "《科研论》学习笔记.md",
+    "New Note/申请博士的计划.md",
+    "Machine Learning/Machine Learning.md",
+    "Machine Learning/Comparing Probability Distributions.md",
+    "Machine Learning/Monte-Carlo Sampling.md",
+    "Applied Statstics/Frequency Statistics.md",
+    "Applied Statstics/Standardized MLR.md",
+    "Applied Statstics/Simple Linear Regression (SLR).md",
+    "Applied Statstics/Non-linear Regression.md",
+    "Applied Statstics/Multiple Linear Regression(MLR).md",
+    "Applied Statstics/Model Selection.md",
+    "Applied Statstics/Correlation Model of regression(CMR).md",
+    "Applied Statstics/ANOVA.md",
+    "Applied Statstics/Advanced Remedial Measures.md",
+    "Bayesian Statistics/Some Mathematical Ideas in Bayesian Statistics.md",
+    "Bayesian Statistics/Posterior Approximation with the Gibbs Sampler and MCMC.md",
+    "Bayesian Statistics/Normal Models.md",
+    "Bayesian Statistics/Monte Carlo Method in Bayesian.md",
+    "Bayesian Statistics/Linear Regression.md",
+    "Bayesian Statistics/Linear and Generalized Linear Mixed Effects Models.md",
+    "Bayesian Statistics/Latent Variable Methods for Ordinal Data.md",
+    "Bayesian Statistics/Group Comparisons and Hierarchical Model.md",
+    "Bayesian Statistics/Generalized Linear Models.md",
+    "Bayesian Statistics/Confidence Regions.md",
+    "Attachment/Pasted image 20250408224759.png",
+    "Attachment/Jensen-Shannon divergence.png",
+    "Machine Learning",
+    "Attachment/Box-Muller Algorithm.png",
+    "Attachment/exponential generate algorithm.png",
+    "Attachment/modified ar method algorithm.png",
+    "Attachment/generalize ar method algorithm.png",
+    "Attachment/generalize ar methods.png",
+    "Attachment/acceptance-rejection method plot.png",
+    "Monte Carlo Method",
+    "Attachment/double-descent.png",
+    "Attachment/complexity model vs bias:vairance.png",
+    "Homework/Bayesian Statistics",
+    "Homework/ASDA I",
+    "Homework",
+    "04-Optimization.html",
+    "附件/04-Optimization.html",
+    "Applied Statstics/ASDA I Review.html",
+    "ASDA I/ASDA I Midterm Review.pdf",
+    "ASDA I/ASDA I Midterm Review.html",
+    "未命名.canvas"
+  ]
+}
